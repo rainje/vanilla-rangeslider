@@ -1,4 +1,4 @@
-# Vanilla Javascript 💅
+# ion-RangeSlider without jQuery 💅
 
 * [Download ZIP](https://github.com/keisto/vanilla-rangeslider/archive/master.zip)
 * [Project page and demos](http://ionden.com/a/plugins/ion.rangeSlider/)
@@ -29,7 +29,7 @@ Add the following stylesheets to the page:
 
 ## Install with NPM
 
-Use [NPM](https://www.npmjs.com/package/ion-rangeslider) to download latest version of a plugin and install it directly in to your project.
+Use [NPM](https://www.npmjs.com/package/vanilla-rangeslider) to download latest version of a plugin and install it directly in to your project.
 
 * npm install vanilla-rangeslider
 
