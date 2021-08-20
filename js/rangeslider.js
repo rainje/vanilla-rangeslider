@@ -2120,7 +2120,7 @@ const IonRangeSlider = function (element, initOptions= {}) {
  * @param element {string|Element}
  * @param options {Object}
  */
-function ionRangeSlider(element, options = null) {
+export default function ionRangeSlider(element, options = null) {
     if (typeof element === 'string') {
         element = document.querySelector(element);
     }
